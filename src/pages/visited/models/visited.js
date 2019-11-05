@@ -1,8 +1,7 @@
 export default {
   namespace: "visited",
+  
   state: {
-    token: '',
-    userId: ''
   },
   effects: {},
   reducers: {
